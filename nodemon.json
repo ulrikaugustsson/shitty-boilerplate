@@ -1,0 +1,7 @@
+{
+	"verbose": false,
+	"ignore": ["test/*", ".tmp/*", "src/*"],
+	"watch": ["./dist/server"],
+	"execMap": {},
+	"env": {}
+}
